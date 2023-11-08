@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b95a4bd7-3d0a-40de-928c-8b2fd92b8759" name="Changes" comment="" />
+    <list default="true" id="b359e635-01ac-44e8-81ab-8dc9305abf8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../taksimetre/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taksimetre/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +12,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2XtXuIIuzF2u6JMXLn1pChhz4Yo" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2Xta5C6BkCau0E2oyjaMOtJqFtD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,21 +26,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "onboarding.tips.debug.path": "D:/Desktop/patika_tasks/Java/taksimetre/src/Main.java",
+    "onboarding.tips.debug.path": "D:/Desktop/patika_tasks/Java/yaricap_odevi/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b95a4bd7-3d0a-40de-928c-8b2fd92b8759" name="Changes" comment="" />
-      <created>1699449572206</created>
+      <changelist id="b359e635-01ac-44e8-81ab-8dc9305abf8d" name="Changes" comment="" />
+      <created>1699450645272</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699449572206</updated>
-      <workItem from="1699449573403" duration="6000" />
-      <workItem from="1699450384114" duration="40000" />
+      <updated>1699450645272</updated>
+      <workItem from="1699450646289" duration="3000" />
     </task>
     <servers />
   </component>
@@ -50,7 +50,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>10</line>
+          <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
