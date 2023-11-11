@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        /*
       int yil;
 
       Scanner scan = new Scanner(System.in);
@@ -24,8 +25,15 @@ public class Main {
          System.out.println(yil+ " bir artık yıl değildir ! ");
 
       }
-      
-      
+         */
+        for (int k = 0; k < 9; k++) {
+            if (k == 3)
+                break;
+            System.out.print("*");
+
+        }
+
+
 
     }
 }
