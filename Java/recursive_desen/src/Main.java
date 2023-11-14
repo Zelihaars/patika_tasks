@@ -8,7 +8,6 @@ public class Main {
         int num = scanner.nextInt();
         desen(num);
     }
-
     public static void desen(int num) {
         System.out.print(num + " ");
         if (num <= 0) {
